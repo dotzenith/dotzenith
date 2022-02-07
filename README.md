@@ -16,15 +16,17 @@
 ### ❖ A Few Repos
 
 <a href="https://github.com/ZenithDS/TheSeptaTimes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zenithds&repo=TheSeptaTimes&title_color=F8BD96&text_color=F5E0DC&icon_color=96CDFB&bg_color=1E1E2E" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zenithds&repo=TheSeptaTimes&title_color=F8BD96&text_color=F5E0DC&icon_color=96CDFB&bg_color=1E1E2E" width="49.5%"/>
 </a>
 <a href="https://github.com/ZenithDS/dotconfig">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zenithds&repo=dotconfig&title_color=F8BD96&text_color=F5E0DC&icon_color=96CDFB&bg_color=1E1E2E" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zenithds&repo=dotconfig&title_color=F8BD96&text_color=F5E0DC&icon_color=96CDFB&bg_color=1E1E2E" width="49.5%"/>
 </a>  
 <a href="https://github.com/ZenithDS/lovesay">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zenithds&repo=lovesay&title_color=F8BD96&text_color=F5E0DC&icon_color=96CDFB&bg_color=1E1E2E" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zenithds&repo=lovesay&title_color=F8BD96&text_color=F5E0DC&icon_color=96CDFB&bg_color=1E1E2E" width="49.5%"/>
 </a>  
-
+<a href="https://github.com/ZenithDS/zenithds">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zenithds&repo=zenithds&title_color=F8BD96&text_color=F5E0DC&icon_color=96CDFB&bg_color=1E1E2E" width="49.5%"/>
+</a>  
 <!---->
 <!-- <div align="center"> -->
 <!---->
