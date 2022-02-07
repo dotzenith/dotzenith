@@ -1,7 +1,5 @@
 <h2 align="center"> ━━━━━━  ❖  ━━━━━━ </h2>
 
----
-
 ### ❖ Shiny Grades
 
 <a href="https://github.com/ZenithDS/ZenithDS">
