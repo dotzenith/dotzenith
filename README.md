@@ -17,7 +17,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=zenithds&repo=TheSeptaTimes&hide_border=true&title_color=F8BD96&text_color=F5E0DC&icon_color=96CDFB&bg_color=1E1E2E" width="49%"/>
 </a>
 <a href="https://github.com/ZenithDS/wordle-cli">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zenithds&repo=wordle-cli&hide_border=true&title_color=F8BD96&text_color=F5E0DC&icon_color=96CDFB&bg_color=1E1E2E" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zenithds&repo=SpotiFetch&hide_border=true&title_color=F8BD96&text_color=F5E0DC&icon_color=96CDFB&bg_color=1E1E2E" width="49%"/>
 </a>  
 <a href="https://github.com/ZenithDS/dotconfig">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=zenithds&repo=dotconfig&hide_border=true&title_color=F8BD96&text_color=F5E0DC&icon_color=96CDFB&bg_color=1E1E2E" width="49%"/>
