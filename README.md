@@ -6,7 +6,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dotzenith&show_icons=true&hide_border=true&title_color=F8BD96&text_color=F5E0DC&icon_color=96CDFB&bg_color=1E1E2E" height="100%" width="49%"/>
 </a>
 <a href="https://github.com/dotzenith/dotzenith">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dotzenith&hide_border=true&layout=compact&title_color=F8BD96&text_color=F5E0DC&icon_color=96CDFB&bg_color=1E1E2E&hide=javascript,Vim%20script,Dockerfile,Ruby" height="100%" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dotzenith&hide_border=true&layout=compact&title_color=F8BD96&text_color=F5E0DC&icon_color=96CDFB&bg_color=1E1E2E&hide=javascript,Vim%20script,CSS,Ruby,Jinja" height="100%" width="49%"/>
 </a>
 
 ---
