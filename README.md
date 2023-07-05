@@ -3,7 +3,7 @@
 ### ❖ Shiny Overview
 
 <a href="https://github.com/dotzenith/dotzenith">
-  <img src="https://stats.danshu.co/api?username=dotzenith&show_icons=true&hide_border=true&title_color=1E1E2E&text_color=1E1E2E&icon_color=1E1E2E&bg_color=fab387&line_height=30" width="49%"/>
+  <img src="https://stats.danshu.co/api?username=dotzenith&show_icons=true&hide_border=true&title_color=1E1E2E&text_color=1E1E2E&icon_color=1E1E2E&bg_color=fab387&line_height=28" width="49%"/>
 </a>
 <a href="https://github.com/dotzenith/dotzenith">
   <img src="https://stats.danshu.co/api/top-langs/?username=dotzenith&layout=compact&hide_border=true&title_color=1E1E2E&text_color=1E1E2E&icon_color=1E1E2E&bg_color=fab387&hide=javascript,Vim%20script,CSS,Ruby,Jinja,TypeScript,Swift,Shell&exclude_repo=hilde,hydrated,SMYA,blog&langs_count=4" width="49%"/>
