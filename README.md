@@ -6,7 +6,7 @@
   <img src="https://stats.danshu.co/api?username=dotzenith&show_icons=true&hide_border=true&title_color=1E1E2E&text_color=1E1E2E&icon_color=1E1E2E&bg_color=fab387" height=200 align="center"/>
 </a>
 <a href="https://github.com/dotzenith/dotzenith">
-  <img src="https://stats.danshu.co/api/top-langs/?username=dotzenith&layout=compact&hide_border=true&title_color=1E1E2E&text_color=1E1E2E&icon_color=1E1E2E&bg_color=fab387&hide=javascript,Vim%20script,CSS,Ruby,Jinja,TypeScript,Swift,Shell&exclude_repo=hilde,hydrated,SMYA,blog&langs_count=4&card_width=320" height=200 align="center"/>
+  <img src="https://stats.danshu.co/api/top-langs/?username=dotzenith&layout=compact&hide_border=true&title_color=1E1E2E&text_color=1E1E2E&icon_color=1E1E2E&bg_color=fab387&hide=javascript,Vim%20script,CSS,Ruby,Jinja,TypeScript,Swift,Shell&exclude_repo=hilde,hydrated,SMYA,blog&langs_count=4&card_width=280" height=200 align="center"/>
 </a>
 
 ---
