@@ -13,8 +13,8 @@
 
 ### ❖ Tinkering Efforts
 
-<a href="https://github.com/dotzenith/AvatarAPI">
-  <img src="https://stats.danshu.co/pin/?username=dotzenith&repo=AvatarAPI&hide_border=true&title_color=1E1E2E&text_color=1E1E2E&icon_color=1E1E2E&bg_color=fab387" width="49%"/>
+<a href="https://github.com/dotzenith/AvatarAPI.rs">
+  <img src="https://stats.danshu.co/pin/?username=dotzenith&repo=AvatarAPI.rs&hide_border=true&title_color=1E1E2E&text_color=1E1E2E&icon_color=1E1E2E&bg_color=fab387" width="49%"/>
 </a>  
 <a href="https://github.com/dotzenith/tilde">
   <img src="https://stats.danshu.co/pin/?username=dotzenith&repo=tilde&hide_border=true&title_color=1E1E2E&text_color=1E1E2E&icon_color=1E1E2E&bg_color=fab387" width="49%"/>
