@@ -31,3 +31,7 @@
 <a href="https://github.com/dotzenith/dotconfig">
   <img src="https://stats.danshu.co/pin/?username=dotzenith&repo=dotconfig&hide_border=true&title_color=1E1E2E&text_color=1E1E2E&icon_color=1E1E2E&bg_color=f9e2af" width="49%"/>
 </a>  
+
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/dotzenith/dotzenith/main/assets/dotzenith/peach.png');]{x0000}$}
