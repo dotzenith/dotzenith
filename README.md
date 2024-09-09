@@ -13,21 +13,21 @@
 
 ### ❖ Tinkering Efforts
 
-<a href="https://github.com/dotzenith/AvatarAPI.rs">
-  <img src="https://stats.danshu.co/pin/?username=dotzenith&repo=AvatarAPI.rs&hide_border=true&title_color=1E1E2E&text_color=1E1E2E&icon_color=1E1E2E&bg_color=fab387" width="49%"/>
-</a>  
+<a href="https://github.com/dotzenith/TheSeptaTimes.rs">
+  <img src="https://stats.danshu.co/pin/?username=dotzenith&repo=TheSeptaTimes.rs&hide_border=true&title_color=1E1E2E&text_color=1E1E2E&icon_color=1E1E2E&bg_color=fab387" width="49%"/>
+</a>
 <a href="https://github.com/dotzenith/tilde">
   <img src="https://stats.danshu.co/pin/?username=dotzenith&repo=tilde&hide_border=true&title_color=1E1E2E&text_color=1E1E2E&icon_color=1E1E2E&bg_color=fab387" width="49%"/>
-</a>  
-<a href="https://github.com/dotzenith/SpotiFetch.rs">
-  <img src="https://stats.danshu.co/pin/?username=dotzenith&repo=SpotiFetch.rs&hide_border=true&title_color=1E1E2E&text_color=1E1E2E&icon_color=1E1E2E&bg_color=a6e3a1" width="49%"/>
-</a>  
-<a href="https://github.com/dotzenith/TheSeptaTimes.rs">
-  <img src="https://stats.danshu.co/pin/?username=dotzenith&repo=TheSeptaTimes.rs&hide_border=true&title_color=1E1E2E&text_color=1E1E2E&icon_color=1E1E2E&bg_color=a6e3a1" width="49%"/>
+</a>
+<a href="https://github.com/dotzenith/SeptaPlusPlus">
+  <img src="https://stats.danshu.co/pin/?username=dotzenith&repo=SeptaPlusPlus&hide_border=true&title_color=1E1E2E&text_color=1E1E2E&icon_color=1E1E2E&bg_color=a6e3a1" width="49%"/>
+</a>
+<a href="https://github.com/dotzenith/ZenDNS">
+  <img src="https://stats.danshu.co/pin/?username=dotzenith&repo=ZenDNS&hide_border=true&title_color=1E1E2E&text_color=1E1E2E&icon_color=1E1E2E&bg_color=a6e3a1" width="49%"/>
 </a>
 <a href="https://github.com/dotzenith/lovesay.rs">
   <img src="https://stats.danshu.co/pin/?username=dotzenith&repo=lovesay.rs&hide_border=true&title_color=1E1E2E&text_color=1E1E2E&icon_color=1E1E2E&bg_color=f9e2af" width="49%"/>
-</a>  
+</a>
 <a href="https://github.com/dotzenith/dotconfig">
   <img src="https://stats.danshu.co/pin/?username=dotzenith&repo=dotconfig&hide_border=true&title_color=1E1E2E&text_color=1E1E2E&icon_color=1E1E2E&bg_color=f9e2af" width="49%"/>
-</a>  
+</a>
